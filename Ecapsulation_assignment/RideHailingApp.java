@@ -1,6 +1,7 @@
 package Ecapsulation_assignment;
 
 abstract class Vehicle1 {
+    @SuppressWarnings("unused")
     private int vehicleId;
     private String driverName;
     private double ratePerKm;
